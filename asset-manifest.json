@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/interactPortal/static/css/main.233cbc38.chunk.css",
+    "main.js": "/interactPortal/static/js/main.9b698de2.chunk.js",
+    "main.js.map": "/interactPortal/static/js/main.9b698de2.chunk.js.map",
+    "runtime-main.js": "/interactPortal/static/js/runtime-main.3db145c6.js",
+    "runtime-main.js.map": "/interactPortal/static/js/runtime-main.3db145c6.js.map",
+    "static/js/2.89a5c1db.chunk.js": "/interactPortal/static/js/2.89a5c1db.chunk.js",
+    "static/js/2.89a5c1db.chunk.js.map": "/interactPortal/static/js/2.89a5c1db.chunk.js.map",
+    "index.html": "/interactPortal/index.html",
+    "precache-manifest.1dd7845f690d2ae5570a4089458de01f.js": "/interactPortal/precache-manifest.1dd7845f690d2ae5570a4089458de01f.js",
+    "service-worker.js": "/interactPortal/service-worker.js",
+    "static/css/main.233cbc38.chunk.css.map": "/interactPortal/static/css/main.233cbc38.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3db145c6.js",
+    "static/js/2.89a5c1db.chunk.js",
+    "static/css/main.233cbc38.chunk.css",
+    "static/js/main.9b698de2.chunk.js"
+  ]
+}
